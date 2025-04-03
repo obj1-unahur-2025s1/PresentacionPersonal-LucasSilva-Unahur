@@ -6,6 +6,10 @@
 ### Datos Personales
 - Mi nombre es: Lucas Federico Silva
 - Vivo en González Catán - La matanza
+- Estudio Tecnicatura universitaria en programación
+- Tengo 32 años
+- Soltero
+- Trabajo además de estudiar
 
 
 ### Otra Información
