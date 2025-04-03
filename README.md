@@ -15,4 +15,5 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Tengo dos perros, se llaman Lisa y Homero, sí, por los Simpsons.
-- Después pongo más -ACTUALIZAR-
+- Estoy en la orquesta de la Unahur, toco el Violín
+- Tengo muy buena memoria
